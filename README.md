@@ -1,2 +1,2 @@
-# KrishaPatel17.github.io
+# Website.github.io
 Example text
